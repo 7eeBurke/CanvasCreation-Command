@@ -192,5 +192,4 @@ namespace App
 }
 
 
-/* Command design pattern encapsulates all the information an object needs to perform an action. The Memento pattern provides the ability to restore an object to its previous state. Personally I think that the Command pattern is a better fit for my assignment as the user is given a list of commands that can be performed on the canvas so the Command design pattern makes the code easier to understand and fix. The Command pattern would scale well with my program as adding new commands is simple and the implementation of a new command won't cause problems for the other commands.
-*/
+
